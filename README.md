@@ -1,8 +1,8 @@
 <h1>Olá! Me chamo Iago Vargas :) </h1>
 
 <div>
-<li> 🔭 I’m currently studying on <a href="https://site.ufn.edu.br/">UFN - Ciência da Computação </a> </li>
-<li> 🌱 I’m currently learning MySQL e Java </li>
+<li> 👔 I’m currently studying on <a href="https://site.ufn.edu.br/">UFN - Ciência da Computação </a> </li>
+<li> ⭐ I’m currently learning MySQL e Java </li>
 <li> 📫 How to reach me: iagovargas42@gmail.com </li>
 <li> 😄 Pronouns: ele/dele </li>
 </div>
