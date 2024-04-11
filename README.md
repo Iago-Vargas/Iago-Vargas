@@ -45,4 +45,4 @@
 <div>
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=Iago-Vargas&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </div>
-![snake gif](https://github.com/Iago-Vargas/Iago-Vargas/blob/output/github-contribution-grid-snake.svg)
+
