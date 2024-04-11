@@ -32,7 +32,15 @@
  <a href="https://discord.com/channels/@me" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "mailto:iagovargas42@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/iago-oliveira-64690227b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
   
 </div>
+<div>
+  <img width="900" height="220" src="https://streak-stats.demolab.com?user=Iago-Vargas&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
+</div>
 
+<p align="line-block">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=Iago-Vargas&show_icons=true&theme=vision-friendly-dark">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Vargas&size_weight=0.15&count_weight=0.5&layout=compact&theme=vision-friendly-dark">
+</p>
 
