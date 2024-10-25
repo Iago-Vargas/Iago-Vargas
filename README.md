@@ -2,7 +2,7 @@
 
 <div>
 <li> 👔 I’m currently studying on <a href="https://site.ufn.edu.br/">UFN - Ciência da Computação </a> </li>
-<li> ⭐ I’m currently learning Django </li>
+<li> ⭐ I’m currently learning Django and MongoDB</li>
 <li> 📫 How to reach me: iagovargas42@gmail.com </li>
 <li> 😄 Pronouns: ele/dele </li>
 </div>
