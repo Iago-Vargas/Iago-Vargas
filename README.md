@@ -3,7 +3,8 @@
   # Hi there 👋 I'm Iago Vargas
   ### I'm 20 years old, currently studying Computer Science at Universidade Franciscana.
   
-  <img hight="300" width="700" alt="Killua" src="https://github.com/Iago-Vargas/bouulzzz/blob/main/img/aboutme.gif">
+  <img src="https://media1.tenor.com/m/u-ScnUCXJYQAAAAd/rdr2-red-dead-redemption2.gif" width="600" />
+
 
 </div>
 
@@ -40,7 +41,6 @@
 
 <div align="center">
 
-<>
   # Reach me 📞
 
 </div>
@@ -48,25 +48,24 @@
 <p>
  </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://github.com/bouulzzz/bouulzzz/blob/main/img/killua.gif">
+<img hight="320" width="450" align="right" alt="GIF" src="https://media1.tenor.com/m/4fUx9DqJV3EAAAAC/pok%C3%A9mon-pokemon.gif">
 
-If you need to get in touch with me for any reason whether you have a question, would like to discuss something, or are interested in gaming with me please feel free to reach out at your convenience. 😊
+<h5> If you need to contact me for any reason, whether it's to ask a question, discuss something, feel free to reach out whenever it's convenient for you. 😊 </h5>
+<br/><br/>
+<div align="center">
+  <a href="mailto:iagovargas42@gmail.com">
+    <img alt="Gmail" width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/732/732200.png" />
+  </a>
+  <a href="https://www.iagovargas.com">
+    <img alt="Site" width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/8743/8743996.png" />
+  </a>
+  <a href="https://www.linkedin.com/in/iago-vargas-backend">
+    <img alt="LinkedIn" width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
+  </a>
+</div>
 
-<a href="mailto:ashutosh.saxena.2001@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/ashutosh-saxena-7b326817b/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-<a href="https://www.reddit.com/user/X_Ashutosh_X">
-  <img align="left" alt=" Reddit" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/reddit.png" />
-</a>
-<a href="https://steamcommunity.com/profiles/76561198182224539/">
-  <img align="left" alt="Steam" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/steam.png" />
-</a>
+
+
  </p>
 
 </br>
@@ -76,6 +75,6 @@ If you need to get in touch with me for any reason whether you have a question, 
 </br>
 </br>
 </br>
-<>
+
 
 *************
