@@ -63,7 +63,7 @@
 <p>
  </br>
 
-<img hight="320" width="450" align="right" alt="GIF" src="https://media1.tenor.com/m/u-ScnUCXJYQAAAAd/rdr2-red-dead-redemption2.gif">
+<img hight="300" width="420" align="right" alt="GIF" src="https://media1.tenor.com/m/u-ScnUCXJYQAAAAd/rdr2-red-dead-redemption2.gif">
 
 <h5> If you need to contact me for any reason, whether it's to ask a question, discuss something, feel free to reach out whenever it's convenient for you. 😊 </h5>
 <br/><br/>
@@ -78,7 +78,7 @@
     <img alt="LinkedIn" width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
   </a>
 </div>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
  </p>
