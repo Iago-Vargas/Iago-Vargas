@@ -77,8 +77,10 @@
   <a href="https://www.linkedin.com/in/iago-vargas-backend">
     <img alt="LinkedIn" width="50" height="50" src="https://cdn-icons-png.flaticon.com/128/3536/3536505.png" />
   </a>
+<ul> </ul><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Vargas&layout=compact" alt="Top Langs" />
 </div>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Iago-Vargas&layout=compact)
+
+
 
 
  </p>
