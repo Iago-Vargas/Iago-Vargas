@@ -4,6 +4,7 @@
 
   <br>
   🎯 Sou um desenvolvedor Back-End apaixonado por tecnologia, sempre em busca de aprender novas ferramentas e melhorar minhas habilidades.  
+  <br>
   🚀 Aqui você vai encontrar um pouco sobre as tecnologias que utilizo no meu dia a dia e as que estou estudando atualmente.
 
 </div>
