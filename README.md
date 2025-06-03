@@ -3,9 +3,9 @@
   ![Texto alternativo](/github-header-image.png)
 
   <br>
-  🎯 Sou um desenvolvedor Back-End apaixonado por tecnologia, sempre em busca de aprender novas ferramentas e melhorar minhas habilidades.  
+  🎯 I'm a Back-End developer passionate about technology, always looking to learn new tools and improve my skills.
   <br>
-  🚀 Aqui você vai encontrar um pouco sobre as tecnologias que utilizo no meu dia a dia e as que estou estudando atualmente.
+  🚀 Here you will find a little about the technologies that I use in my daily life and the ones that I am currently studying.
 
 </div>
 
