@@ -1,7 +1,6 @@
 <div align="center">
   
-  # Hi there 👋 I'm Iago Vargas
-  ### I'm 21 years old, currently studying Computer Science at Universidade Franciscana.
+  ![Texto alternativo](/github-header-image.png)
   
   <img src="https://media1.tenor.com/m/u-ScnUCXJYQAAAAd/rdr2-red-dead-redemption2.gif" width="600" />
 
