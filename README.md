@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![Texto alternativo](/github-header-image.png)
+  ![Texto alternativo](/image.png)
 
   <br>
   🎯 I'm a Full-Stack developer passionate about technology, always looking to learn new tools and improve my skills.
