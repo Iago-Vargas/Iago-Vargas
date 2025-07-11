@@ -3,7 +3,7 @@
   ![Texto alternativo](/github-header-image.png)
 
   <br>
-  🎯 I'm a Back-End developer passionate about technology, always looking to learn new tools and improve my skills.
+  🎯 I'm a Full-Stack developer passionate about technology, always looking to learn new tools and improve my skills.
   <br>
   🚀 Here you will find a little about the technologies that I use in my daily life and the ones that I am currently studying.
 
